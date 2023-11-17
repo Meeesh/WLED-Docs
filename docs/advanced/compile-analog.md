@@ -5,4 +5,4 @@ hide:
   # - toc
 ---
 
-Moved, see [How to compile WLED](/advanced/compiling-wled.md)
+Moved, see [How to compile WLED](/advanced/compiling-wled)
